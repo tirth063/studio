@@ -1,10 +1,10 @@
-# My-Contact - Unified Contact Management (મારો સંપર્ક)
+# My-contactss - Unified Contact Management (મારા સંપર્કો)
 
-This is a Next.js starter project developed in Firebase Studio, evolving into a comprehensive contact management application called My-Contact.
+This is a Next.js starter project developed in Firebase Studio, evolving into a comprehensive contact management application called My-contacts.
 
 ## Description
 
-My-Contact aims to be a modern, AI-enhanced solution for managing contacts efficiently. It provides features for detailed contact information storage, hierarchical group management, data import/export, and intelligent suggestions, all wrapped in a clean, responsive user interface.
+My-contacts aims to be a modern, AI-enhanced solution for managing contacts efficiently. It provides features for detailed contact information storage, hierarchical group management, data import/export, and intelligent suggestions, all wrapped in a clean, responsive user interface.
 
 ## Features
 
@@ -87,11 +87,11 @@ This project includes a `Dockerfile` for containerization.
 
 1.  **Build the Docker image:**
     ```bash
-    docker build -t my-contact .
+    docker build -t My-contacts .
     ```
 2.  **Run the Docker container:**
     ```bash
-    docker run -p 3000:3000 my-contact
+    docker run -p 3000:3000 My-contacts
     ```
     The application will be available at `http://localhost:3000`.
 
