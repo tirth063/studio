@@ -1,4 +1,4 @@
-# My-contactss - Unified Contact Management (મારા સંપર્કો)
+# My-contacts - Unified Contact Management (મારા સંપર્કો)
 
 This is a Next.js starter project developed in Firebase Studio, evolving into a comprehensive contact management application called My-contacts.
 
